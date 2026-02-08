@@ -33,4 +33,18 @@ Este projeto foi criado com fins **educacionais**, para mostrar uma implementaç
 ---
 
 ## 📂 Estrutura do Projeto
+├── index.html # Página principal
+├── style.css # Estilos do menu e botão
+└── script.js # Código JS e animações GSAP
 
+---
+
+## ⚙️ Como Executar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/polezi/menu-fullscreen-gsap.git
+2. Abra o arquivo index.html no navegador.
+(Recomendo o uso do Live Server Extension)
+
+3. Clique no botão e veja a animação do menu fullscreen em ação!
